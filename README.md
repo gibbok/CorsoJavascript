@@ -44,3 +44,7 @@ Per domande o supporto, puoi contattarmi direttamente su GitHub.
 ---
 
 Grazie per il tuo interesse nel Corso Javascript! 🎉
+
+## Risorsa complementare
+
+Per continuare lo studio dopo gli esercizi e le slide JavaScript, segnalo [The Concise TypeScript Book in italiano](https://gibbok.github.io/typescript-book/it-it/), una guida gratuita e open source.
